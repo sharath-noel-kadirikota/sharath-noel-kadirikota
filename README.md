@@ -23,9 +23,8 @@
 
   - LinkedIn: [sharath-kadirikota](https://www.linkedin.com/in/sharath-kadirikota/)
   - Email: SharathKadirikota@gmail.com
-  - Writing: [sharathkadirikota.com](https://sharathkadirikota.com) (coming soon)
+  - Writing: [sharathnoelkadirikota.com](https://sharathnoelkadirikota.com)
 
-  Most of my work lives behind enterprise repos at CVS Health, so this profile is intentionally light. The pinned repos below are smaller public projects
-  that show patterns I work with day to day.
+  Most of my work lives behind enterprise repos at CVS Health, so this profile is intentionally light.
 
   I'm always up for a conversation about engineering management, authentication and identity systems at scale, or healthcare technology.
